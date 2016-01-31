@@ -8,7 +8,7 @@ import feign.gson.GsonDecoder;
 
 import java.util.List;
 
-public class GitHubExample {
+public class GitHubExampleX {
 
     public static void main(String[] args) {
         GitHubRaw githubraw = Feign.builder()
